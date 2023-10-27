@@ -1,0 +1,5 @@
+body{background-color: rgba (247,247,247, 0.5);color: rgb(50,40,69);
+ font-family: arial, sansserif; line-height: 1.5; }
+h2{color: blue}
+h1{color: rgb(165,211,9);}
+h1,h2{text-justify: center;}
